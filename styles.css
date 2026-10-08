@@ -61,15 +61,6 @@ a:focus-visible {
 .top-surface {
   overflow: clip;
 }
-.brand,
-.site-header nav a,
-.button,
-.product-strip a,
-.product-card,
-.contact-cta,
-.site-footer > a:last-child {
-  will-change: transform;
-}
 .site-header {
   min-height: 110px;
   display: flex;
@@ -923,14 +914,17 @@ h2 {
     font-size: 8px;
   }
   .site-header nav {
-    gap: 0;
+    width: 100%;
+    justify-content: space-between;
+    gap: 8px;
   }
-  .site-header nav > a:not(.nav-contact) {
-    display: none;
+  .site-header {
+    flex-wrap: wrap;
+    padding-block: 14px;
   }
   .nav-contact {
-    padding: 10px 12px;
-    gap: 12px;
+    padding: 9px 10px;
+    gap: 8px;
     font-size: 13px;
   }
   .hero {
