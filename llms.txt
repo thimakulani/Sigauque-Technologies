@@ -1,0 +1,19 @@
+# Sigauque Technologies
+
+> Sigauque Technologies builds practical software, web applications, mobile applications, and integrations for people, schools, and businesses in Johannesburg, South Africa.
+
+## Website
+
+- [Home](https://sigauque-technology.co.za/): Company overview, services, software products, and contact details.
+- [Privacy policy](https://sigauque-technology.co.za/privacy-policy.html): Privacy information for QuickPOS and OrderSync.
+
+## Products
+
+- HR Solution: Software support for people and human-resources workflows.
+- School Connect: Connected technology for school communities.
+- QuickPOS: Point-of-sale software for everyday retail.
+
+## Contact
+
+- Email: thimakulani@gmail.com
+- Location: Johannesburg, South Africa
